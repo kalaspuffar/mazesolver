@@ -1,4 +1,8 @@
 *.class
+.idea/
+out/
+MazeSolver.iml
+solutions.txt
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
